@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/90545fe5-6ac4-4750-bee5-690e60d06fd3/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/appclasificacionnumerosazure",
+    "appService.deploySubpath": "."
+}
